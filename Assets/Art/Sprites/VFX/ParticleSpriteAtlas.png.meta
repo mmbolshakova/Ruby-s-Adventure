@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: bb5bb2f184426a64cac53faa220820f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -229388319832411081
+    second: ParticleSpriteAtlas_0
+  - first:
+      213: -560400940957162448
+    second: ParticleSpriteAtlas_1
+  - first:
+      213: 664059343884491645
+    second: ParticleSpriteAtlas_2
+  - first:
+      213: -297986023845220798
+    second: ParticleSpriteAtlas_3
+  - first:
+      213: -5112237080638025070
+    second: ParticleSpriteAtlas_4
+  - first:
+      213: -8017088114858404769
+    second: ParticleSpriteAtlas_5
+  - first:
+      213: -5395968555289399812
+    second: ParticleSpriteAtlas_6
+  - first:
+      213: -186914281306700243
+    second: ParticleSpriteAtlas_7
+  - first:
+      213: 4247236618324837600
+    second: ParticleSpriteAtlas_8
+  - first:
+      213: 5111477012118886019
+    second: ParticleSpriteAtlas_9
+  - first:
+      213: -7599682040830517179
+    second: ParticleSpriteAtlas_10
+  - first:
+      213: -4700165531557988630
+    second: ParticleSpriteAtlas_11
+  - first:
+      213: -7464524761615309662
+    second: ParticleSpriteAtlas_12
+  - first:
+      213: -5252864778399626304
+    second: ParticleSpriteAtlas_13
+  - first:
+      213: 8529525666430705964
+    second: ParticleSpriteAtlas_14
+  - first:
+      213: -7690266784323722480
+    second: ParticleSpriteAtlas_15
+  - first:
+      213: 5305170194693922377
+    second: ParticleSpriteAtlas_16
+  - first:
+      213: 7204915407074836105
+    second: ParticleSpriteAtlas_17
+  - first:
+      213: -6099673423757921118
+    second: ParticleSpriteAtlas_18
+  - first:
+      213: 8391692383580466066
+    second: ParticleSpriteAtlas_19
+  - first:
+      213: 8898311670839259007
+    second: ParticleSpriteAtlas_20
+  - first:
+      213: -7164840969131200024
+    second: ParticleSpriteAtlas_21
+  - first:
+      213: -3843527372641449604
+    second: ParticleSpriteAtlas_22
+  - first:
+      213: -192235684081609472
+    second: ParticleSpriteAtlas_23
+  - first:
+      213: -2213192961243998424
+    second: ParticleSpriteAtlas_24
+  - first:
+      213: -4462113858609817708
+    second: ParticleSpriteAtlas_25
+  - first:
+      213: -5208735542535394991
+    second: ParticleSpriteAtlas_26
+  - first:
+      213: 3355093202176191794
+    second: ParticleSpriteAtlas_27
+  - first:
+      213: -6630663734626944884
+    second: ParticleSpriteAtlas_28
+  - first:
+      213: -5230814326978764731
+    second: ParticleSpriteAtlas_29
+  - first:
+      213: 4973894778834994927
+    second: ParticleSpriteAtlas_30
+  - first:
+      213: 265036377341745155
+    second: ParticleSpriteAtlas_31
+  - first:
+      213: -7161636340056816935
+    second: ParticleSpriteAtlas_32
+  - first:
+      213: -7029938972814108794
+    second: ParticleSpriteAtlas_33
+  - first:
+      213: -1600769804981276608
+    second: ParticleSpriteAtlas_34
+  - first:
+      213: -3728446981686977396
+    second: ParticleSpriteAtlas_35
+  - first:
+      213: -6962598672274100873
+    second: ParticleSpriteAtlas_36
+  - first:
+      213: 7907148565510866052
+    second: ParticleSpriteAtlas_37
+  - first:
+      213: -1707559749250433202
+    second: ParticleSpriteAtlas_38
+  - first:
+      213: -7255767788110619139
+    second: ParticleSpriteAtlas_39
+  - first:
+      213: -7042761666872592959
+    second: ParticleSpriteAtlas_40
+  - first:
+      213: -3649014784012906528
+    second: ParticleSpriteAtlas_41
+  - first:
+      213: -4173649993162322481
+    second: ParticleSpriteAtlas_42
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 389
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8211b68a7883409cc6176401f29e5
+      internalID: -229388319832411081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 397
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df3d0991362eda468d68ca62c0fe3df
+      internalID: -560400940957162448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 267
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8b739727970ea40b20b78e8697a116
+      internalID: 664059343884491645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 358
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c613762a40cd641af90490f3fe779f
+      internalID: -297986023845220798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 343
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af30cd555737d4428f713fa07c345e8
+      internalID: -5112237080638025070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 362
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85406e5607041dc44b9a97df0a6c61e8
+      internalID: -8017088114858404769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe5e62a508120469b139e4ca4fce12
+      internalID: -5395968555289399812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 341
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c7e9bca743084f9d5c53caab5ef40
+      internalID: -186914281306700243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 352
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6821ff69478034a8d1ea2269b6dd96
+      internalID: 4247236618324837600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42045bf4cea941443bdea8d0fadb8826
+      internalID: 5111477012118886019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 341
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af3bf86ddfbb8747bb67e9a964e528e
+      internalID: -7599682040830517179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 335
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f47c30b8fe3114a9e40d4ff5e9f524
+      internalID: -4700165531557988630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 303
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8738033f1034c4a97d5a7e8150fccc
+      internalID: -7464524761615309662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e7fd457c14744f8225ba7e7747f61
+      internalID: -5252864778399626304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 346
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71087871a2962e540a5587b3750f23b3
+      internalID: 8529525666430705964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 330
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3659dfd550aa743438496be01af3eaba
+      internalID: -7690266784323722480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 337
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fa3275b75aaed4cb2540bdd0644c4a
+      internalID: 5305170194693922377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 303
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e3373dfbd2b140a1ac0c562c2553e
+      internalID: 7204915407074836105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 330
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da12655fc99d843acc3a4ce122fed3
+      internalID: -6099673423757921118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 310
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819923a6f523e58499bcfd3733bb3455
+      internalID: 8391692383580466066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 326
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8390cc4a05e2b4b8c28b8f5b972db6
+      internalID: 8898311670839259007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc60dbf5a2da414fbc0b5c83e6720c8
+      internalID: -7164840969131200024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 322
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8440a82fecb8647bf8fe3efb0901b5
+      internalID: -3843527372641449604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc396a4ab6682f4a9bf3052ddf74aca
+      internalID: -192235684081609472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 314
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d31c214d1717da47934a8307b5f31c9
+      internalID: -2213192961243998424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b8e20b3bb08548b16e22c65313f5c
+      internalID: -4462113858609817708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 312
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619b8473157e0154a8f2bbfd736060e8
+      internalID: -5208735542535394991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a96fe7b97e5f840b16d6f2284f5974
+      internalID: 3355093202176191794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 305
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a2fed21898e440841c2cef051ee98
+      internalID: -6630663734626944884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 306
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4291fcafd4f2d40b49a6b65edd549c
+      internalID: -5230814326978764731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 302
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46d41935d8e7d4e83a9cae401e0839
+      internalID: 4973894778834994927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fab32907caae44fab7e8102a974072
+      internalID: 265036377341745155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 298
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c29c8917b61d49a8fe09e6f2142ba
+      internalID: -7161636340056816935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 299
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a9ea47e34eb645abbe34d16ddfe96
+      internalID: -7029938972814108794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0392334feb3c0e14ab775a8503e39e3c
+      internalID: -1600769804981276608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 293
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bb9f62b33f7a14fb8a4dbb2c27b6a1
+      internalID: -3728446981686977396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 272
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3902cbae27c4542becfa1bdab3020b
+      internalID: -6962598672274100873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4302be90b80e64fae15013a29932f3
+      internalID: 7907148565510866052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebbda29d17bfcb46a30ac9266f42e02
+      internalID: -1707559749250433202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 275
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb90512c5564045bd3fd24545cbb77
+      internalID: -7255767788110619139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 275
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bdc70bc77e5384abec07101c87cf9e
+      internalID: -7042761666872592959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 283
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf38ef6883cba4b8c71bf59209a66c
+      internalID: -3649014784012906528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSpriteAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b2e63f5d822b4b8a70a9c57fdfdca
+      internalID: -4173649993162322481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0c2300b11b86c9640a46b2755b532067
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
